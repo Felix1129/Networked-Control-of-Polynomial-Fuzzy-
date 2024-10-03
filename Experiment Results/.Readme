@@ -1,0 +1,22 @@
+#Mobile Robot#
+A mobile robot known as the C01 intelligent service robot is depicted.  
+Each of the robot's three processors has its own function.
+An operating system called Linux is installed on the head. 
+Windows 10 is the operating system of the body tablet. 
+Lastly, we have the microprocessor that drives the motor.
+Processors running Linux systems are mainly responsible for SLAM and navigation missions. 
+This body tablet uses the Windows 10 operating system to solve problems concerning voice recognition and image recognition. 
+To control the motor, the motor-driven microprocessor receives signals from the Linux system. The chassis is also equipped with sensors such as LIDAR, collision sensors, ultrasound, and infrared.
+
+#Quadrotor#
+The quadrotor used in this thesis is a ZD550. 
+It is made of carbon fiber and has a diagonal wheelbase of 550. 
+The propellers are 14 inches in diameter and 55 inches in pitch. 
+Since the composition of the quadrotor is made of carbon fiber, the weight of the whole quadrotor with its battery is only 2kg.
+The Pixhawk standard provides a cost-effective way to design autopilot hardware. 
+Thus, many UAVs use Pixhawk. Pixhawk has a random access memory (RAM) frequency of 168MHz and flash memory of 2MB. 
+The chip of the Pixhawk adopts a 32-bit Arm Cortex-M4 Core microcontroller. 
+Furthermore, Pixhawk has two sets of gyroscope sensors, a 3-axis accelerometer magnetometer sensor, and an air pressure sensor. 
+Two GPS sensors are connected to the host. One GPS sensor is on standby while the other is working. 
+It will automatically switch when a failure occurs. 
+The error occurs GPS sensor will switch into a standby state, and it will automatically switch when another error occurs.
