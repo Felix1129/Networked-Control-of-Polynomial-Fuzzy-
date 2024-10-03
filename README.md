@@ -72,9 +72,9 @@ The defuzzification of the control rules is shown as follows:
 The transformed output feedback system of the defuzzification result of novel polynomial fuzzy NCSs can be obtained as
 ![image](https://github.com/user-attachments/assets/bf9e815e-bdcf-4272-8f13-e52d5b3d9494)
 
-# [Simulation](https://pages.github.com/)
+# [Simulation](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Simulation)
 
-## [Package dropout](https://pages.github.com/)
+## [Package dropout](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Simulation/Packet%20dropout)
 To prove that the negative impact of package dropout on 
 NCSs and package dropout is stochastic, we set the package 
 `dropout rate  = 50%` and the disturbance to occur at 20 to 21 
@@ -92,7 +92,7 @@ the network system while ensuring the stability of the system.
 ![image](https://github.com/user-attachments/assets/d13e4ba0-2918-418c-9966-b2edcd791855)
 ![image](https://github.com/user-attachments/assets/617ca08e-7351-4011-87d1-3318b5637ddf)
 
-## [Feasible solution space](https://pages.github.com/)
+## [Feasible solution space](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Simulation/Packet%20dropout)
 A comparison of the proposed method with the existing 
 method indicated an increase in both the number of fuzzy rules 
 and stability conditions. It can be verified by computing time in 
