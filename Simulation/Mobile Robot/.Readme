@@ -1,0 +1,5 @@
+With the initial value as the coordinate of the robot and 0.5 as the package dropout rate,
+the error comparison is shown. The error of the proposed method is shown in red while the error of the existing method is shown in blue. 
+The segment of the Lyapunov function is equal to 2. In the figure, it can be seen that the red line shows a faster response speed at the beginning than the blue line does, 
+and the magnitude of oscillation is smaller.Shows the tracking trajectory of the mobile robot in the X-Y plane. The black line represents the desired trajectory, 
+the red line represents the proposed method tracking trajectory, and the blue line represents the existing method tracking trajectory. 
