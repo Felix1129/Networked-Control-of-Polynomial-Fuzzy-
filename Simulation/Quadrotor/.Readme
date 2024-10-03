@@ -1,0 +1,2 @@
+In this simulation, the quadrotor will rise from the ground to a height of five meters and maintain the fixed height. 
+Then, the quadrotor will start the path tracking to track a square with side length of four meters. 
