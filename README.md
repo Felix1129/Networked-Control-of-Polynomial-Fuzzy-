@@ -102,7 +102,7 @@ Table 1.
 
 ![image](https://github.com/user-attachments/assets/66396be3-4ea3-42fe-a3b8-9be1972b6556)
 
-## *Mobile Robot*
+## [*Mobile Robot*](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Simulation/Mobile%20Robot)
 The error of the proposed method is shown in red, 
 while the error of the existing method is shown in blue. The segment of the Lyapunov 
 function is equal to 2. In the figure, the red line shows a faster 
@@ -117,7 +117,7 @@ blue line.
 ![image](https://github.com/user-attachments/assets/ed9001e5-2121-45bb-b737-65e669623d5f)
 ![image](https://github.com/user-attachments/assets/1e7d5f2f-1143-4989-aeca-77390f2f3cb7)
 
-## *Quadrotor*
+## [*Quadrotor*](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Simulation/Quadrotor)
 The red line is the proposed novel 
 piecewise polynomial fuzzy time-delay network controller, and 
 the blue line is the existing piecewise polynomial fuzzy time delay network controller. 
@@ -133,13 +133,13 @@ proposed methods are smaller than those of the existing ones.
 
 
 
-# [Experiment Results](https://pages.github.com/)
+# [Experiment Results](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Experiment%20Results)
 
-## *Mobile Robot*
+## [*Mobile Robot*](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Experiment%20Results/Mobile%20robot)
 ![image](https://github.com/user-attachments/assets/c79a2d6d-2c43-47e6-9ec4-ad0d2d9768c4)
 ![image](https://github.com/user-attachments/assets/fde7db6d-304d-4584-bd69-352c4d4f58f2)
 
-## *Quadrotor*
+## [*Quadrotor*](https://github.com/Felix1129/Networked-Control-of-Polynomial-Fuzzy-/tree/main/Experiment%20Results/Quadrotor)
 ![image](https://github.com/user-attachments/assets/e891b3c3-5b0c-40d4-a02a-84168150b18d)
 ![image](https://github.com/user-attachments/assets/ecff29fc-6972-491d-9999-92f00de0843d)
 ![image](https://github.com/user-attachments/assets/de0f9437-21eb-4102-bfc6-0162ecbe18a3)
