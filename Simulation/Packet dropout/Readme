@@ -1,0 +1,7 @@
+To proof the negative impact of package dropout on NCSs and package dropout is stochastic, 
+setting the package dropout rate in the truetime 2.0 toolbox as and set the disturbance to occur at 20 to 21 seconds, 
+with a pulse with an amplitude of 0.8. The time response of the system states and sampled input under package dropout and time delay conditions are shown. 
+Since package dropout is a random event, the error time response graphs of x, y, and θ are presented in four simulations. 
+The red line is a discrete signal, and the blue line is a continuous signal. 
+Based on the following, it is apparent simulation diagram that the proposed new piecewise polynomial fuzzy controller can still correctly track continuous signals when the network causes package dropout,
+which verifies that the proposed novel piecewise polynomial fuzzy controller can effectively control the network system while ensuring the stability of the system.
